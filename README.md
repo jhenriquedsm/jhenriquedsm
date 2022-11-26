@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Dev | JavaScript | PHP<br>📜 Cursando Ciência da Computação - UDF<br> 📍  Brasília - DF<br>👨‍💻 18 years<br>👾 Experiências:<br>      👾HTML, CSS, Bootstrap;<br>      👾JavaScript, NodeJs;<br>      👾C++, Python, Java;<br>      👾PHP, MySQL;<br>
+💻 Dev | JavaScript<br>📜 Cursando Ciência da Computação - UDF<br> 📍  Brasília - DF<br>👨‍💻 18 years<br>👾 Experiências:<br>      👾HTML, CSS, Bootstrap;<br>      👾JavaScript, NodeJs;<br>      👾C++, Python, Java;<br>      👾PHP, MySQL;<br>
 
 
 ## 🌐 Socials:
