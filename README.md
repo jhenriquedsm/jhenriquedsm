@@ -1,6 +1,6 @@
 # Ol-a 👋, Eu sou o jhenriquedsm
 
-<img width="100%" src="[https://ibb.co/8Dc6ZzB](https://ibb.co/8Dc6ZzB)" alt="my banner">
+<img width="100%" src="https://i.ibb.co/7J42mgz/github-header-image-3.png" alt="my banner">
 
 ## 💫About Me:
 💻 Dev | Backend
