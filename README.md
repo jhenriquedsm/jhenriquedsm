@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Java | JavaScript<br>📜 Cursando Ciência da Computação - UDF<br> 📍  Brasília - DF<br>👨‍💻 18 years<br>👾 Experiências:<br>      👾HTML, CSS, Bootstrap;<br>      👾JavaScript, Node.js;<br>      👾Java, C++, Python;<br>      👾PHP, MySQL;<br>
+💻 Java | JavaScript<br>📜 Studying Computer Science - UDF<br> 📍  Brasília - DF<br>👨‍💻 18 years<br>👾 Experiências:<br>      👾HTML, CSS, Bootstrap;<br>      👾JavaScript, Node.js;<br>      👾Java, C++, Python;<br>      👾PHP, MySQL;<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhenriquedsm) 
