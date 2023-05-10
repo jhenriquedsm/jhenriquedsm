@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Java | Spring | JavaScript | MySQL<br>📜 Studying Computer Science - UDF<br> 📍  Brasília - DF<br>👨‍💻 18 years<br>👾 Experiences:<br>      👾HTML, CSS, Bootstrap;<br>      👾JavaScript, Node.js;<br>      👾Java, Spring, MySQL;<br>      👾C++, Python;<br>
+💻 Java | Spring | MySQL | JavaScript<br>📜 Studying Computer Science - UDF<br> 📍  Brasília - DF<br>👨‍💻 18 years<br>👾 Experiences:<br>      👾Java, Spring, MySQL;<br>      👾JavaScript, HTML, CSS, Bootstrap<br>      👾Git, Github;<br>      👾C++, Python;<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhenriquedsm) 
