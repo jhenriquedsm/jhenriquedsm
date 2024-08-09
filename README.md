@@ -1,7 +1,7 @@
 <h2 align="center">💫 Hi, my name is José Henrique</h2>
-<h3>🔭 I’m currently working on Superior Tribunal Militar<br></h3>
-<h3>🌱 I’m currently studying Computer Science at UDF<br></h3>
-<h3>⚡ I'm currently learning Java and Spring for backend<br></h3>
+<h3>🔭 I’m working on SERPRO<br></h3>
+<h3>🌱 I’m studying Computer Science at UDF<br></h3>
+<h3>⚡ I'm learning Java and Spring for backend<br></h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhenriquedsm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
