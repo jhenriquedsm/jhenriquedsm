@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/jhenriquedsm/jhenriquedsm/raw/main/assets/github.gif" alt="Hi, I'm José Henrique 👋 I'm a 🚀 Java developer 🚀 Fuelled by technology, driven by innovation ⚙️✨">
+  <img src="https://github.com/jhenriquedsm/jhenriquedsm/raw/main/assets/github.gif" width="650" alt="Hi, I'm José Henrique 👋 I'm a 🚀 Java developer 🚀 Fuelled by technology, driven by innovation ⚙️✨">
 </p>
+
 
 
 🎯 **About Me:**  
