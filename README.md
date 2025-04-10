@@ -1,7 +1,10 @@
-<h2 align="center">💫 Hi, I'm José Henrique</h2>
+<p align="center">
+  <img src="https://github.com/jhenriquedsm/jhenriquedsm/raw/main/assets/github.gif" alt="Hi, I'm José Henrique 👋 I'm a 🚀 Java developer 🚀 Fuelled by technology, driven by innovation ⚙️✨">
+</p>
+
 
 🎯 **About Me:**  
-- 💻 I'm currently working on **SERPRO - Serviço Federal de Processamento de Dados**  
+- 💼 I'm currently working on **SERPRO - Serviço Federal de Processamento de Dados**  
 - 🎓 Studying **Computer Science at UDF**  
 - 🔥 Passionate about **backend development, data analysis, and innovation**  
 - 🚀 Learning and working with **Java, Spring Boot, Qlik Sense, and Python**  
@@ -34,6 +37,10 @@
 
 ---
 
-## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhenriquedsm)  
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jhenriquedsm)
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/jhenriquedsm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jhenriquedsm&style=flat-square&color=blue" alt="Profile views"/>
+</p>
