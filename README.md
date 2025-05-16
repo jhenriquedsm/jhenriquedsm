@@ -8,7 +8,8 @@
 - 💼 I'm currently working on **SERPRO - Serviço Federal de Processamento de Dados**  
 - 🎓 Studying **Computer Science at UDF**  
 - 🔥 Passionate about **backend development, data analysis, and innovation**  
-- 🚀 Learning and working with **Java, Spring Boot, Qlik Sense, and Python**  
+- 🚀 Learning and working with **Java, Spring Boot, Qlik Sense, and Python**
+- 🧠 Creator at [**Capi3D**](https://capi3d.com.br/)
 
 ---
 
