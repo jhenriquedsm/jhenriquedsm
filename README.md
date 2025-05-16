@@ -9,7 +9,7 @@
 - 🎓 Studying **Computer Science at UDF**  
 - 🔥 Passionate about **backend development, data analysis, and innovation**  
 - 🚀 Learning and working with **Java, Spring Boot, Qlik Sense, and Python**
-- 🧠 Creator at [**Capi3D**](https://capi3d.com.br/)
+- 🧠 Co-creator at [**Capi3D**](https://capi3d.com.br/)
 
 ---
 
@@ -34,8 +34,10 @@
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/jhenriquedsm/jhenriquedsm/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhenriquedsm/jhenriquedsm/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/jhenriquedsm/jhenriquedsm/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
