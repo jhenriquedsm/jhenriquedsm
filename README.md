@@ -9,7 +9,6 @@
 - 🎓 Studying **Computer Science at UDF**  
 - 🔥 Passionate about **backend development, data analysis, and innovation**  
 - 🚀 Learning and working with **Java, Spring Boot, Qlik Sense, and Python**
-- 🧠 Co-creator at [**Capi3D**](https://capi3d.com.br/)
 
 ---
 
