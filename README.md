@@ -5,10 +5,10 @@
 
 
 🎯 **About Me:**  
-- 💼 I'm currently working on **SERPRO - Serviço Federal de Processamento de Dados**  
-- 🎓 Studying **Computer Science at UDF**  
-- 🔥 Passionate about **backend development, data analysis, and innovation**  
-- 🚀 Learning and working with **Java, Spring Boot, Qlik Sense, and Python**
+- 💼 I'm currently working on **Central IT**  
+- 🎓 Computer Sciente graduate**  
+- 🔥 Passionate about **devops, cloud, and backend development**  
+- 🚀 Learning and working with **Linux, DevSecOps, Java, and Python**
 
 ---
 
