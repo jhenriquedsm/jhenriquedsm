@@ -6,7 +6,7 @@
 
 🎯 **About Me:**  
 - 💼 I'm currently working on **Central IT**  
-- 🎓 Computer Sciente graduate**  
+- 🎓 Computer Sciente graduate from **UDF** 
 - 🔥 Passionate about **DevOps, Cloud, and Backend Development**  
 - 🚀 Learning and working with **Linux, DevSecOps, Java, and Python**
 
